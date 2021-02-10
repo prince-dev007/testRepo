@@ -1,0 +1,137 @@
+[06-Sep-2020 13:13:31 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:13:31 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:13:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php:58) in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 61
+[06-Sep-2020 13:15:05 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:15:05 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:15:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php:54) in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 61
+[06-Sep-2020 13:17:46 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:17:46 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:17:52 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:17:52 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:24:25 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:24:25 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:35:41 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:35:41 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:58:55 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:58:55 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:59:14 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 13:59:14 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 14:01:15 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 14:01:15 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 14:02:14 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 14:02:14 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 14:16:12 UTC] PHP Warning:  include_once(../Cart.php): failed to open stream: No such file or directory in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[06-Sep-2020 14:16:12 UTC] PHP Warning:  include_once(): Failed opening '../Cart.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/mail/EmailUtil.php on line 3
+[14-Dec-2020 15:28:32 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 279
+[14-Dec-2020 15:28:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php:243) in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 281
+[14-Dec-2020 15:32:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(251): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(251): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(251): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(251): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:35:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(248): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:35:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(248): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:36:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(249): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:37:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(249): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:37:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(250): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(250): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(250): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(250): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:39:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(251): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:40:17 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 269
+[14-Dec-2020 15:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(272): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:40:30 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 269
+[14-Dec-2020 15:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(272): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:40:50 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 269
+[14-Dec-2020 15:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(272): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:41:08 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 252
+[14-Dec-2020 15:41:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(255): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:41:40 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 252
+[14-Dec-2020 15:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(255): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:41:42 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 252
+[14-Dec-2020 15:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(255): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109
+[14-Dec-2020 15:46:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php:247) in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 289
+[14-Dec-2020 15:46:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php:247) in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 289
+[14-Dec-2020 15:48:11 UTC] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - headers already sent in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 286
+[14-Dec-2020 15:48:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php:251) in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 289
+[14-Dec-2020 15:50:37 UTC] PHP Notice:  Undefined index: cart in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php on line 253
+[14-Dec-2020 15:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getFirstName() on null in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php:109
+Stack trace:
+#0 /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/CartController.php(256): UPSWrapper->shippingRequest(false)
+#1 {main}
+  thrown in /home/hacinfot/public_html/chronextechnologies.com/theroofstore-online/cart/UPSWrapper.php on line 109

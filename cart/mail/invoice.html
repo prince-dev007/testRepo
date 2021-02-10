@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>The Roof Store</title>
+    <link rel="stylesheet" href="{__URL__}/cart/mail/style.css" media="all" />
+  </head>
+  <body>
+    <header class="clearfix" style="background-color: #d4edda;color: #000000;">
+      <div id="logo">
+        <img src="{__URL__}/images/logo.png">
+      </div>
+      <div id="company">
+        <h2 class="name">Roof Protect</h2>
+        <div>4801 South University Dr #1700</div>
+        <div>Davie Fl, 33328</div>
+        <div>954-210-9614 option 1</div>
+        <div><a href="mailto:principalmedia@bellsouth.net">principalmedia@bellsouth.net</a></div>
+      </div>
+      </div>
+    </header>
+    <main>
+      <div id="details" class="clearfix"><br><br>
+        <div id="client">
+          <div class="to">INVOICE TO:</div>
+          <h2 class="name">{__CUSTOMER_NAME__}</h2>
+          <div class="address">{__ADDRESS__}</div>
+          <div class="email"><a href="mailto:john@example.com">{__EMAIL__}</a></div>
+        </div>
+        <div id="invoice">
+          <h2>Order Number : {__INVOICE__}</h2>
+          <div class="date">Date of Invoice: {__DATE__}</div>
+          <div class="date"></div>
+        </div>
+      </div><br>
+      <table border="1" cellspacing="1" cellpadding="1" width="100%">
+        <thead>
+          <tr>
+            <th class="no">#</th>
+            <th class="desc">DESCRIPTION</th>
+            <th class="unit">UNIT PRICE</th>
+            <th class="qty">Unit</th>
+            <th class="total">TOTAL</th>
+          </tr>
+        </thead>
+        {__PRODUCTLIST__}
+      </table><br>
+      <div id="thanks">Thank you!</div>
+     <!-- <div id="notices">
+        <div>NOTICE:</div>
+        <div class="notice">{__NOTICE__}</div>
+      </div>-->
+    </main>
+    <footer>
+      Invoice was created on a computer and is valid without the signature and seal.
+    </footer>
+  </body>
+</html>

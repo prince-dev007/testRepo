@@ -1,0 +1,590 @@
+.heade_panel {
+
+    color: #ffffff; background-color:#fd7e14; border-color: #faebcc; padding: 10px 15px;  border-bottom: 1px solid transparent; border-top-left-radius: 3px; border-top-right-radius: 3px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+.mydiv {
+
+    margin-top: 50px;
+
+    margin-bottom: 50px
+
+}
+
+
+
+.cross {
+
+    font-size: 10px
+
+}
+
+
+
+.padding-0 {
+
+    padding-right: 5px;
+
+    padding-left: 5px
+
+}
+
+
+
+.img-style {
+
+    margin-left: -11px;
+
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
+
+    border-radius: 5px;
+
+    max-width: 104% !important
+
+}
+
+
+
+.m-t-20 {
+
+    margin-top: 20px
+
+}
+
+
+
+.bbb_background {
+
+    background-color: #E0E0E0 !important
+
+}
+
+
+
+.ribbon {
+
+    width: 150px;
+
+    height: 150px;
+
+    overflow: hidden;
+
+    position: absolute
+
+}
+
+
+
+.ribbon span {
+
+    position: absolute;
+
+    display: block;
+
+    width: 34px;
+
+    border-radius: 50%;
+
+    padding: 8px 0;
+
+    background-color: #3498db;
+
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
+
+    color: #fff;
+
+    font: 100 18px/1 'Lato', sans-serif;
+
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+
+    text-transform: uppercase;
+
+    text-align: center
+
+}
+
+
+
+.ribbon-top-right {
+
+    top: -10px;
+
+    right: -10px
+
+}
+
+
+
+.ribbon-top-right::before,
+
+.ribbon-top-right::after {
+
+    border-top-color: transparent;
+
+    border-right-color: transparent
+
+}
+
+
+
+.ribbon-top-right::before {
+
+    top: 0;
+
+    left: 17px
+
+}
+
+
+
+.ribbon-top-right::after {
+
+    bottom: 17px;
+
+    right: 0
+
+}
+
+
+
+.sold_stars i {
+
+    color: orange
+
+}
+
+
+
+.ribbon-top-right span {
+
+    right: 17px;
+
+    top: 17px
+
+}
+
+
+
+div {
+
+    display: block;
+
+    position: relative;
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box
+
+}
+
+
+
+.bbb_deals_featured {
+
+    width: 100%
+
+}
+.list-wrap{margin-bottom: 20px;}
+h3.list-heading{font-size: 16px; font-weight: bold; text-transform: uppercase; border-bottom: 1px solid #ccc; padding:0 0 10px 0; }
+a.list-button{color: #ccc; padding: 5px 10px;  border-radius: 5px;  margin:0 0 20px 10px; margin-bottom: 20px; border: 1px solid #ccc; font-size: 16px;  float: left;}
+a.list-button:hover, a.list-active{background:#06C; color: #fff; border-color:#06c; }
+.search-wrap{width: 50%; padding: 5px 10px; float: left; border-radius: 5px; border: 1px solid #ccc;}
+.search-input{width: 90%; border: 0px; outline: none;}
+.search-btn{padding: 0 4px; border: 0px; background: #fff; float: right;}
+
+
+.price-range-slider {
+  width: 100%;
+  float: left;
+  padding: 10px 20px;
+}
+.price-range-slider .range-value {
+  margin: 0;
+}
+.price-range-slider .range-value input {
+  width: 100%;
+  background: none;
+  color: #000;
+  font-size: 16px;
+  font-weight: initial;
+  box-shadow: none;
+  border: none;
+  margin: 20px 0 20px 0;
+}
+.price-range-slider .range-bar {
+  border: none;
+  background: #000;
+  height: 3px;
+  width: 96%;
+  margin-left: 8px;
+}
+.price-range-slider .range-bar .ui-slider-range {
+  background: #06b9c0;
+}
+.price-range-slider .range-bar .ui-slider-handle {
+  border: none;
+  border-radius: 25px;
+  background: #fff;
+  border: 2px solid #06b9c0;
+  height: 17px;
+  width: 17px;
+  top: -0.52em;
+  cursor: pointer;
+}
+.price-range-slider .range-bar .ui-slider-handle + span {
+  background: #06b9c0;
+}
+
+
+
+
+.checkbox-container {
+  display: block;
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  height: 15px;
+  width: 15px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.checkbox-container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.checkbox-container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.checkbox-container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.checkbox-container .checkmark:after {
+  left: 5px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.bbb_deals {
+
+    width: 100%;
+    padding: 0px;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    margin-top: 0px;
+    background-color:#fff;
+}
+.bbb_deals:hover{border-color: #0056b3;}
+/*.border-left{border-left: 1px solid #ccc;}*/
+.bbb_deals_title{min-height: 46px; font-weight: normal; line-height: 18px; text-align: left;}
+.bbb_deals_title a{
+    font-size: 14px;
+    color: #333;
+    text-transform: capitalize;
+}
+.category-image-wrap img{width: 180px}
+.category-text-wrap{padding: 20px; border-top: 1px solid #ccc; border-radius: 0 0 5px 5px;}
+.category-image-wrap{text-align: center; padding:20px; }
+.rating{display: block; width: 50%; margin-bottom: 10px; float: left; font-size: 12px;}
+.rating-yellow{color:#fdd835}
+.rating-gray{color: #ccc;}
+.price-wrap{width: 50%; float: left; text-align: right; display: block; font-weight: bold; margin-bottom: 10px;}
+a.cart-btn{width: 100%; border: 1px solid #ccc; display: inline-block; padding: 8px; text-transform: uppercase; font-size: 12px; border-radius: 5px; text-align: center; color: #aaa; background: #fff;}
+.bbb_deals:hover a.cart-btn{ background: #0056b3; color: #fff; text-decoration: none; }
+
+
+.bbb_deals_slider_container {
+
+    width: 100%
+
+}
+
+
+
+.bbb_deals_item {
+
+    width: 100% !important
+
+}
+
+
+
+.bbb_deals_image {
+
+    width: 100%
+
+}
+
+
+
+.bbb_deals_image img {
+
+    width: 100%
+
+}
+
+
+
+.bbb_deals_content {
+
+    margin-top: 33px
+
+}
+
+
+
+.bbb_deals_item_category a {
+
+    font-size: 14px;
+
+    font-weight: 400;
+
+    color: rgba(0, 0, 0, 0.5)
+
+}
+
+
+
+.bbb_deals_item_price_a {
+
+    font-size: 14px;
+
+    font-weight: 400;
+
+    color: rgba(0, 0, 0, 0.6)
+
+}
+
+
+
+.bbb_deals_item_price_a strike {
+
+    color: red
+
+}
+
+
+
+.bbb_deals_item_name {
+
+    font-size: 24px;
+
+    font-weight: 400;
+
+    color: #000000
+
+}
+
+
+
+.bbb_deals_item_price {
+
+    font-size: 24px;
+
+    font-weight: 500;
+
+    color: #6d6e73
+
+}
+
+
+
+.available {
+
+    margin-top: 19px
+
+}
+
+
+
+.available_title {
+
+    font-size: 16px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+    font-weight: 400
+
+}
+
+
+
+.available_title span {
+
+    font-weight: 700
+
+}
+
+.product{margin: 0 0 30px 0; float: left; display: flex;}
+.product-list{width: 33.33%;}
+.product-grid{width: 100%;}
+.product.col-md-12 .category-image-wrap{width: 20%; float: left;}
+.product.col-md-12 .category-text-wrap{width: 80%; float: left; border: none; border-radius: 0 5px 5px 0}
+.product.col-md-12 .bbb_deals_title{min-height: 16px}
+.product.col-md-4 .list-text-details{display: none;}
+.product.col-md-12 .list-text-details{display: block;}
+.card-wrapper{position: relative; display: flex; flex-direction: column; min-width: 0; word-wrap: break-word; background-color: #fff; margin: 30px 0;}
+.subheading{text-transform: uppercase; font-size: 16px; font-weight: bold;}
+.sub-text{font-size: 12px; color: #999;margin: 0 5px; font-weight: normal;}
+.rating-share-wrap{width: 100%; display: inline-flex;}
+.details-price{font-size: 22px; font-weight: bold; color: #0056b3;}
+.feature-wrap{width: 80px; text-align: center; margin: 20px 10px; display: inline-table;}
+.feature-wrap i{border-radius: 100%; padding: 10px; background: #efefef; font-size: 20px;}
+.feature-wrap span{display: block; color:#0056b3; line-height: 18px; margin: 10px 0;}
+.radius{border-radius:100%;}
+.colors{ border: 1px solid #ccc; padding: 2px; margin:0 5px 5px 0; display: inline-block;  }
+.inside-color{width: 20px; height: 20px; display: flex;}
+.red-color{background: #A10115;}
+.light-gray-color{background: #DEDEDE;}
+.brown-color{background:#584343;}
+.gray-color{background:#A3A4A1;}
+.shared-wrap{width:50%; float: right; text-align: right;}
+.shared-wrap a{color: #999; margin:0 5px;}
+.shared-wrap a:hover{color: #0056b3;}
+.shared-wrap span{font-size: 14px;}
+.card-wrapper hr{margin-top: 0;}
+.rating-card-details{margin-bottom: 0;}
+.qty-wrap{margin: 20px 0;}
+.button-primary{margin-right: 10px; background: #ccc; border: 1px solid #999; color: #000;}
+.button-primary i{margin-right: 10px;}
+.button-primary:hover, .button-active-primary{ border: 1px solid #0056b3; background: #0056b3; color: #fff;}
+
+.slider-nav-thumbnails .slick-slide {
+  opacity: 0.5;
+}
+
+.slider-nav-thumbnails .slick-slide.slick-active {
+  opacity: 1;
+  background: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Retina graphics!*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+     only screen and (min--moz-device-pixel-ratio: 1.5),
+     only screen and (min-device-pixel-ratio: 1.5){
+
+  #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-image: url(https://fancyapps.com/fancybox/source/fancybox_sprite.png);
+    background-size: 44px 152px; /*The size of the normal image, half the size of the hi-res image*/
+  }
+  #fancybox-loading div {
+    background-image: url(https://fancyapps.com/fancybox/source/fancybox_loading@2x.gif);
+    background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
+  }
+}
+.gallery-viewer {
+  margin-top: 30px !important;
+  margin-bottom: 0 !important;
+}
+
+
+
+@media only screen and (max-width: 991px) {
+
+    .bbb_deals {
+
+        width: 100%;
+
+        margin-right: 0px
+
+    }
+
+}
+
+
+
+@media only screen and (max-width: 575px) {
+
+    .bbb_deals {
+
+        padding-left: 15px;
+
+        padding-right: 15px
+
+    }
+
+
+
+    .bbb_deals_title {
+
+        left: 15px;
+
+        font-size: 16px
+
+    }
+
+
+
+    .bbb_deals_slider_nav_container {
+
+        right: 5px
+
+    }
+
+
+
+    .bbb_deals_item_name,
+
+    .bbb_deals_item_price {
+
+        font-size: 20px
+
+    }
+
+}
