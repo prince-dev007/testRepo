@@ -6,14 +6,14 @@ class db_connect {
 
 	function __construct() {
 	   if($_SERVER["SERVER_NAME"]=='127.0.0.1' || $_SERVER["SERVER_NAME"] == 'localhost'){
-		   $this->db = mysqli_connect ('localhost', 'root', 'root','rlyjwjov_shopping') or die ("unable to connect to database server");
+		$this->db = mysqli_connect ('localhost', 'root', 'root','rlyjwjov_shopping') or die ("unable to connect to database server");
            ////    $this->db = mysqli_connect ('localhost', 'hacinfot_dashboa', 'c@.J&BM}os(4','hacinfot_dashboard') or die ("unable to connect to database server");
 // db hacinfot_theroofstore
 // pass S+dwd7xNDnF;
 // user hacinfot_theroof
 
        }else{
-   $this->db = mysqli_connect ('localhost', 'rlyjwjov_shopping', 'SumPqWUz8W*x','rlyjwjov_shopping') or die ("unable to connect to database server");
+		$this->db = mysqli_connect ('localhost', 'root', 'root','rlyjwjov_shopping') or die ("unable to connect to database server");
     //       $this->db = mysqli_connect ('localhost', 'hacinfot_theroof', 'S+dwd7xNDnF;','hacinfot_theroofstore') or die ("unable to connect to database server");
 	       //hacinfot_dashboard   // c@.J&BM}os(4  ////hacinfot_dashboa
 		//    $this->db = mysqli_connect ('localhost', 'hacinfot_dashboa', 'c@.J&BM}os(4','hacinfot_dashboard') or die ("unable to connect to database server");

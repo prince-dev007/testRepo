@@ -1,6 +1,6 @@
 <?php
 require 'vendor/autoload.php';
-define('SITE_URL','http://chronextechnologies.com/theroofstore-online');
+define('SITE_URL','http://localhost:8888/roofprotect/');
 //define('SITE_URL','http://localhost/dropbox/theroofstorecart');
 //define('SITE_URL','https://shopping.theroofstore.net');
 /*$paypal = new \PayPal\Rest\ApiContext(

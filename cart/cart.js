@@ -22,6 +22,7 @@ $( document ).ready( function() {
                    if(json==="false"){
                        $('#zip').val("");
                        alert('Zipcode is not valid, please provide valid zipcode.');
+
                    }
                 }
             });

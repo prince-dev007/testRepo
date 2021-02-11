@@ -14,7 +14,6 @@ include_once '../dbconnection/dbConnection.php';
 require 'vendor/autoload.php';
 // Require the main ups class and upsRate
 include_once 'UPSWrapper.php';
-include_once 'FedexWrapper.php';
 include_once 'Cart.php';
 include_once 'Util.php';
 include_once 'app/start.php';
@@ -379,16 +378,11 @@ switch ($action){
         $cart[0]->setState($state);
         $cart[0]->setCity($city);
         $cart[0]->setZip($zip);
-        //$fedex = new FedexWrapper();
-         $ups = new UPSWrapper();
-         $shippingTotal =  $ups->getShippingRate($cart);
+        $ups = new UPSWrapper();
+        $shippingTotal =  $ups->getShippingRate($cart);
         if($shippingTotal !=0){
             $cart[0]->setShippingCost($shippingTotal);
         }
-    // ups call start
-        // $ups = new UPSWrapper();
-        // $shippingTotal =  $ups->getShippingRate($cart);
-    // ups call end
         $_SESSION['cart'] = serialize($cart);
         header("Location: ../cartDetail.php");
         break;

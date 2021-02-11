@@ -35,8 +35,8 @@ define("PAYPAL_ENDPOINTS", array(
 // PayPal REST App credentials
 define("PAYPAL_CREDENTIALS", array(
 	"sandbox" => [
-        "client_id" => "Acut1kAKlOzjR8XfLBIh1vEOOxWWlKWZxhjBCTUWVRSsehuZGk5pbF8_eTYQpCzmBYwlxziWHF_86Ii1",
-        "client_secret" => "EFQyqiHDDgbRzejgDCVv2L2pN90Px8M9QeZfEabWVdY03ll-AjmEIZnlojG28gZjFl2T40BfMvvGMBCR"
+        "client_id" => "AXNL2RutPcZq8cqeDjSP6-ARPVe1dPsiD5z1PIU5jTYwH4XFSx1Xw4ShrkRx7wjP1AujHJysc_sHxcrT",
+        "client_secret" => "AXNL2RutPcZq8cqeDjSP6-ARPVe1dPsiD5z1PIU5jTYwH4XFSx1Xw4ShrkRx7wjP1AujHJysc_sHxcrT"
 	],
 	"production" => [
 		"client_id" => "",

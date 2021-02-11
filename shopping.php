@@ -324,10 +324,12 @@
         <!--Start Factory Images Gallery--->
         <div class="col-md-12 section-sapce">
             <div class="row justify-content-md-center">
-                <div class="col-md-12 product-image-wrap">
+                <div class="col-md-8 product-image-wrap">
                     <img src="images/banner-commercial-flat-roof.jpg" alt="Commercial Flat Roof" style="height: 100%;">
                 </div>
-               
+                <div class="col-md-4 product-image-wrap">
+                    <img src="images/product-image.jpg" alt="">
+                </div>
             </div>
         </div>
     </main>
